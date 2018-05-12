@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9695'
     url: http://www.gutenberg.org/2009/agents/9695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21052#The-Pirate-Shark
 gutenberg_issued: '2007-04-13'
 gutenberg_type: Text
 identifiers:
